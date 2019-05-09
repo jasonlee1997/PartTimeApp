@@ -1,0 +1,8 @@
+{
+  "name": "partimetab",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "id": "f8450a3a"
+}
