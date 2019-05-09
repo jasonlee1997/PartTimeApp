@@ -1,7 +1,8 @@
 {
   "name": "partimetab",
   "integrations": {
-    "cordova": {}
+    "cordova": {},
+    "capacitor": {}
   },
   "type": "angular",
   "id": "f8450a3a"
